@@ -1,0 +1,22 @@
+{
+    "name": "dataAssesment",
+    "base": "PersistedModel",
+    "idInjection": true,
+    "options": {
+      "validateUpsert": true
+    },
+
+    "properties": {
+      "namaFile": {
+        "type": "string" 
+      },
+      "createAt": {
+        "type": "date" 
+      }
+    },
+
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }
