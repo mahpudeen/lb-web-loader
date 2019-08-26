@@ -42,5 +42,9 @@
   "uploadimage":{
     "dataSource": "storage",
     "public": true
+  },
+  "DataUser":{
+    "dataSource": "mongodb",
+    "public": true
   }
 }

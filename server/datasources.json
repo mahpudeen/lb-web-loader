@@ -6,7 +6,7 @@
   "mongodb":{
     "host": "localhost",
     "port": 27017,
-    "database": "tekno_absen",
+    "database": "web_loader",
     "name": "mongodb",
     "connector": "mongodb"
   },
