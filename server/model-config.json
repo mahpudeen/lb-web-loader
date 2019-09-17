@@ -39,12 +39,30 @@
     "dataSource": "mongodb",
     "public": true
   },
-  "uploadimage":{
-    "dataSource": "storage",
-    "public": true
-  },
   "DataUser":{
     "dataSource": "mongodb",
     "public": true
+  },
+  "History":{
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "ContainerNews": {
+    "dataSource": "storagenews",
+    "public": true
+  },
+  "ContainerKSSK": {
+    "dataSource": "storagekssk",
+    "public": true
+  },
+  "ContainerRDKM": {
+    "dataSource": "storagerdkm",
+    "public": true
+  },
+  "ContainerRDKB": {
+    "dataSource": "storagerdkb",
+    "public": true
   }
 }
+
+

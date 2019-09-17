@@ -1,0 +1,16 @@
+{
+    "name": "ContainerRDKB",
+    "replaceOnPUT": false,
+    "plural": "rdkb",
+    "base": "Model",
+    "idInjection": true,
+    "options": {
+      "validateUpsert": true
+    },
+    "properties": {
+    },
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }

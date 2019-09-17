@@ -1,0 +1,16 @@
+{
+    "name": "ContainerNews",
+    "replaceOnPUT": false,
+    "plural": "news",
+    "base": "Model",
+    "idInjection": true,
+    "options": {
+      "validateUpsert": true
+    },
+    "properties": {
+    },
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }

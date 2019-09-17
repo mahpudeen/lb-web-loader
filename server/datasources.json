@@ -10,8 +10,26 @@
     "name": "mongodb",
     "connector": "mongodb"
   },
-  "storage": {
-    "name": "storage",
+  "storagenews": {
+    "name": "storagenews",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "./files"
+  },
+  "storagekssk": {
+    "name": "storagekssk",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "./files"
+  },
+  "storagerdkb": {
+    "name": "storagerdkb",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "./files"
+  },
+  "storagerdkm": {
+    "name": "storagerdkm",
     "connector": "loopback-component-storage",
     "provider": "filesystem",
     "root": "./files"
