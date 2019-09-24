@@ -13,6 +13,9 @@
       "files": {
         "type": "string" 
       },
+      "category": {
+        "type": "string" 
+      },
       "date": {
         "type": "date" ,
         "defaultFn": "now"
