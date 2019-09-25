@@ -1,0 +1,25 @@
+{
+    "name": "History",
+    "base": "PersistedModel",
+    "idInjection": true,
+    "options": {
+      "validateUpsert": true
+    },
+
+    "properties": {
+      "uploader": {
+        "type": "string" 
+      },
+      "category": {
+        "type": "string" 
+      },
+      "date": {
+        "type": "date" 
+      }
+    },
+
+    "validations": [],
+    "relations": {},
+    "acls": [],
+    "methods": {}
+  }

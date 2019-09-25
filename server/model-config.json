@@ -62,6 +62,10 @@
   "ContainerRDKB": {
     "dataSource": "storagerdkb",
     "public": true
+  },
+  "AuditTrail": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
 
