@@ -1,5 +1,5 @@
 {
-    "name": "History",
+    "name": "AuditTrail",
     "base": "PersistedModel",
     "idInjection": true,
     "options": {
